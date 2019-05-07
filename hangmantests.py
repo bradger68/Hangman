@@ -5,4 +5,6 @@ from hangman import *
 #     print(x)
 #print(words)
 
-get_guess()
+#get_guess()
+#print(guessed_letters)
+#print(secret_word(words))
